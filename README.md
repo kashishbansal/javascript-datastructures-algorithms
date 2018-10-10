@@ -78,7 +78,7 @@ Source code of **Learning JavaScript Data Structures and Algorithms** book, thir
 
 Happy Coding!
 
-## Other editions
+## Other edition
 
 | 1st edition   | 2nd edition   | 3rd edition   | 
 | ------------- |:-------------:|:-------------:| 
